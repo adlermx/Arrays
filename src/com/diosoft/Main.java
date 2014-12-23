@@ -44,6 +44,8 @@ public class Main {
                 }
             }
 
+
+
         }
         System.out.println(Arrays.toString(leftArray));
         System.out.println(Arrays.toString(rightArray));
